@@ -55,7 +55,7 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?nigamshree1=nigamshree1&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api=nigamshree1&show_icons=true)
 
 ---
 
